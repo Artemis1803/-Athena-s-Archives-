@@ -1,0 +1,20 @@
+body{
+    background-image: url("WALL/eldenringstoryteller.jpg");
+    background-size: cover;
+    
+}
+.whitetext{
+    color: white;
+    justify-content: space-around;
+    
+}
+.test{
+    
+    align-items: center;
+    justify-content: right;
+    backdrop-filter: blur(10px);
+    background: rgba(0, 0, 0, 0);
+    width:70%;
+    margin: 0 auto;
+    font-size: larger;
+}
